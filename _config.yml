@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jiaojiao Dong"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Jiaojiao Dong"
 description              : &description "Jiaojiao Dong's website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "jiao.png"
   name             : "Jiaojiao Dong"
-  pronouns         : "she/her"  
   bio              : "PhD student in Ecology at Texas A&M University"
   location         : "College Station, Texas"
   uri              : "https://jiaojiao9825.github.io"
